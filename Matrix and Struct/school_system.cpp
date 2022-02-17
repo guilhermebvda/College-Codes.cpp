@@ -32,6 +32,6 @@ int main(){
             return 0;
         }
     }
-    cout << "NAO ENCONTRADA" << endl;
+    cout << "NOT FOUND" << endl;
 
 }
