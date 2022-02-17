@@ -6,7 +6,7 @@
 #include <stdexcept>
 #include <iostream>
 
-// Define um tipo de dado chamado Item, nome relativo de variavel int.
+// Define um tipo de dado chamado Item, nome relativo de variavel int
 typedef int Item;
 
 struct Node {
