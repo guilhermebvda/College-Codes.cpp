@@ -21,7 +21,6 @@ public:
         center = {0.0,0.0};
     }
 
-    // Construtor com dois argumentos
     Circle(Point& center, double radius) {
         this->center = center;
         this->radius = radius;
