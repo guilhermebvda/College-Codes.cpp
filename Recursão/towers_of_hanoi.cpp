@@ -3,8 +3,7 @@
 using namespace std;
 
 
-void Torre_de_Hanoi(char origem, char destino, char auxiliar, int discos)
-{
+void Torre_de_Hanoi(char origem, char destino, char auxiliar, int discos){
    if(discos == 1){
       cout << origem << " -> " << destino << endl;
    }else{
@@ -12,6 +11,7 @@ void Torre_de_Hanoi(char origem, char destino, char auxiliar, int discos)
       cout << origem << " -> " << destino << endl;
       Torre_de_Hanoi(auxiliar, destino, origem,discos-1);
    }
+   
 }
 
 
