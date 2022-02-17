@@ -2,7 +2,7 @@
 Instructions
 ---------------------
 To compile via terminal, you need to have the
-make command installed. if you already have this
+make command installed. If you already have this
 command installed, just open the terminal in this
 folder and type the command:
 
