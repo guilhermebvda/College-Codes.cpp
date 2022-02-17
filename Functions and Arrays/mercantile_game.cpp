@@ -40,12 +40,12 @@ int main(){
     }
 
     if(j1 > j2){
-        cout << "primeiro" << endl;
+        cout << "First" << endl;
     }
     if(j1 < j2){
-        cout << "segundo" << endl;
+        cout << "Second" << endl;
     }   
     if(j1 == j2){
-        cout << "empate" << endl;
+        cout << "Draw" << endl;
     }
 }
