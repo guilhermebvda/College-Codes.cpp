@@ -90,7 +90,7 @@ int main() {
                 cout << "fail: nenhum circulo criado" << endl;
         }
         else {
-            cout << "fail: comando invalido" << endl;
+            cout << "fail: invalid command" << endl;
         }
     }
 
