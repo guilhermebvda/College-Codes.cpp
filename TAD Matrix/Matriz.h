@@ -48,7 +48,7 @@ class Matriz {
         // l linhas e c colunas e multiplica a matriz que chamar essa funcao-membro pela matriz B.
         // Lembre que a multiplicacao de uma matriz A por uma matriz B so eh possivel  
         // se o numero de colunas de A for igual ao numero de linhas de B. 
-        // Se for possivel fazer a multiplicacao, um ponteiro para uma nova matriz C
+        // Se for possivel fazer a multiplicacao, um ponteiro para uma matriz C
         // contendo o resultado da multiplicacao deve ser retornado (note que a matriz C 
         // deve ser alocada dinamicamente dentro da funcao-membro).
         // Caso contrario, retorna nullptr indicando que nao foi possivel 
