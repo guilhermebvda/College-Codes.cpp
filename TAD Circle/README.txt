@@ -1,15 +1,15 @@
 =====================
-Instruções
+Instructions
 ---------------------
-Para compilar via terminal, você precisa ter o
-comando make instalado. Se você já tiver esse
-comando instalado, basta abrir o terminal nesta
-pasta e digitar o comando:
+To compile via terminal, you need to have the
+make command installed. if you already have this
+command installed, just open the terminal in this
+folder and type the command:
 
 make
 
 ---------------------
 
-Para compilar e executar manualmente, digite:
+To compile and run manually, type:
 
 g++ *.cpp -o main && ./main
