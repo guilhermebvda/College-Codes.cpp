@@ -1,6 +1,6 @@
-# College-Codes With C++ 💼
+# College-Codes From Tasks with C++ 💼
 
-Programming Tasks with C and C++
+
 
 
 
