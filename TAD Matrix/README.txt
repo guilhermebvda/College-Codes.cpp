@@ -1,13 +1,13 @@
-Para compilar no terminal LINUX, digite:
+To compile in LINUX terminal, type:
 
-g++ -o main main.cpp Matriz.cpp
+g++ -o main main.cpp Matrix.cpp
 
-Para executar um dos testes, por exemplo, o teste in01,
-voce deve digitar no terminal do LINUX:
+To run one of the tests, for example test in01,
+you must type in the LINUX terminal:
 
-./main < testes/in01 > resultado01.txt
+./main < tests/in01 > result01.txt
 
-Entao, um arquivo resultado01.txt sera gerado com a 
-saida do seu programa. Voce pode entao testar o conteudo
-do arquivo 'resultado01.txt' com o do arquivo 'out01' para
-ver se eles sao os mesmo.
+Then, a file result01.txt will be generated with the
+exit your program. You can then test the content
+of the file 'resultado01.txt' with that of the file 'out01' to
+see if they are the same.
