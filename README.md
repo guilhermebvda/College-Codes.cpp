@@ -1,3 +1,3 @@
 # College-Codes
-Still programming 🎓
+Still programming � << endl;
 Hello, my name is Guilherme Barros, I am studying computer engineering at the Federal University of Ceará in Brazil. These are some codes of my activities along the way.
