@@ -1,7 +1,5 @@
 #include <iostream>
 
-// Recebe tempo em 'segundos', converte para horas e minutos e segundos.
-// retorna o resultado através dos parâmetros 'hor', 'min' e 'seg'.
 void converte_tempo(int segundos, int *hor, int *min, int *seg)
 {
     *hor = segundos/3600;
