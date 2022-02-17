@@ -5,7 +5,7 @@
 #include <iostream>
 #include <stdexcept>
 
-//M_head vai ser usado apenas como parâmetro, ou seja, não será usado nas operações de troca.
+//M_head vai ser usado apenas como parâmetro, ou seja, não será usado nas operações de troca
 //g++ -Wall *.cpp -o main; ./main
 using namespace std;
 
