@@ -3,4 +3,4 @@ Hello, my name is Guilherme Barros, I am studying computer engineering at the Fe
 
 Languages Learned: C, C++
 
-Languages studied: C and C++
+
