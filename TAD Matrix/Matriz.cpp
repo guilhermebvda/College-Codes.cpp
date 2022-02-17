@@ -1,4 +1,3 @@
-// Implementacao do TAD Matriz
 #include <iostream>
 #include <iomanip>
 #include "Matriz.h"
