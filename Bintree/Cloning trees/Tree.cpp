@@ -41,7 +41,7 @@ void Tree::_serializeTree(std::stringstream& ss, Node **node) {
 }
 
 Node *Tree::_clear(Node *node) {
-    if(node != nullptr) { // caso geral: vamos liberar essa arvore
+    if(node != nullptr) { 
         node->left = _clear(node->left);
         node->right = _clear(node->right);
         delete node;
